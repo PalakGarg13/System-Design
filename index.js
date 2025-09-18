@@ -1,2 +1,2 @@
 //This is System Design folder.
-//this subject is very inportant fir placements.
+//this subject is very inportant for placements.
