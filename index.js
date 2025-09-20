@@ -1,2 +1,3 @@
 //This is System Design folder.
-//this subject is very important for placements.
+//This subject is very important for placements.
+//This contains concepts of dbms.
